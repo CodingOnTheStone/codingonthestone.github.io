@@ -13,6 +13,7 @@ jekyll 설정하고 쉬다가
 오늘은 회의가 좀 있어서 회사에서 배운 건 크게 없고 저녁에 집에서 잠깐 찾아본 내용들
 
 ## Unity3d와 dotnet core
+
 [unity3d 블로그 글](https://blogs.unity3d.com/2018/03/28/updated-scripting-runtime-in-unity-2018-1-what-does-the-future-hold/)  
 그냥 막연히 서로 협력하면 시너지가 좋지 않을까 했는데  
 2016년에 .net foundation에 들어가서 이미 하고 있었고  
@@ -28,9 +29,9 @@ memory access를 막 할 수가 없어져서
 
 
 ## Orleans 2.0
+
 [무엇이 달라졌나?](https://dotnet.github.io/orleans/Documentation/2.0/New.html)  
 한 때 product에 도입해 보겠다고 정말 열심히 공부했었는데 어느세 2.0이 나왔다.  
 dotnet core를 정식으로 지원한다는 점이 가장 큰 변경점 같다.  
-validation logic 같은 거는 서버와 클라 모두가 가지는 경우가 많은데
-Unity로 개발 한 게임의 서버로 쓰면 좋을 것 같다.  
-
+validation logic 같은 건 서버와 클라 모두가 가지는 경우가 많은데  
+Unity로 개발 한 게임의 서버로 쓰면 좋을 것 같다.

@@ -10,6 +10,7 @@ layout: post
 [cgi 사이트의 글](https://www.cgi.com/files/white-papers/cgi_whpr_35_pki_e.pdf)
 
 크게 세 부분이 있다.
+
 1. 데이터 암호화
 2. 중간에 가로채서 데이터를 변경하지 않았는지 확인
 3. 정말 그 사람이 보낸 것인가?
