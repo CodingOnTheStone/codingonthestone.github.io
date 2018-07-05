@@ -24,7 +24,7 @@ java를 회사에서 쓰는데 당장 큰 불편함을 느끼지 못해서 새�
 그래서 바로 열심히 자료들을 보았다. 아래 영상은 조금 길긴 한데 rust 소개 영상으로 나쁘지 않았다.  
 <https://www.youtube.com/watch?v=_jMSrMex6R0>
 
-변수에 쓰는 권한을 borrow 하는 구조는 메모리 관리를 compile time에 알 수 있게 해 주며
+변수에 쓰는 권한을 borrow 하는 구조는 메모리 관리를 compile time에 할 수 있게 해 주며
 concurrency에서 race codition을 없앴다고 한다.  
 race condition이 구체적으로 어떻게 해결되는지는 개념만 보고 직접 코딩을 해보지 않아서 감이 안잡힌다.  
 
